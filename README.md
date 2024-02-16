@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Karen Stackoski.
+## Hello world 👋 I'm Karen Stackoski.
 
 - 🎓 I'm currently graduating Computing Science at UNESC.
 - 🔭 I’m currently working at UNESC Labs (DEPS Tecnologia).

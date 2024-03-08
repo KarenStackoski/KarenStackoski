@@ -27,12 +27,12 @@
 
 ## My Projects
 👀 Take a look on my best personal projects
-## WEB
+#### WEB
 - 🍷 [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
 - 🏎️ [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
-## API
+#### API
 - 🦸 [Superhero API](https://github.com/KarenStackoski/SuperHeroApi)
 - 👩‍💼 [CNPJ API](https://github.com/KarenStackoski/UsingApiCnpj)
-## QA
+#### QA
 - 🤖 [MARK85](https://github.com/KarenStackoski/CypressApi-Mark85)
 - ☕ [Starbugs](https://github.com/KarenStackoski/BDDtesting)

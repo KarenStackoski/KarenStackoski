@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning JavaScript, Cucumber and Cypress.
 - 💬 Ask me about Progress 4gl, SQL, C#, C++, Clean Architecture.
 - 📫 How to reach me: stackoskikaren@gmail.com or [Karen Stackoski](https://www.linkedin.com/in/karen-stackoski-a91634258/) on LinkedIn.
+## About
+
+## Profissional Experience
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/karen-stackoski-a91634258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:stackoskikaren@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/karen_stackoski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

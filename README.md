@@ -27,7 +27,7 @@
 
 ## My Projects
 👀 Take a look on my best personal projects
-### WEB
+## WEB
 - 🍷 [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
 - 🏎️ [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
 ## API

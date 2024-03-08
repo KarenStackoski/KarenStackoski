@@ -21,3 +21,15 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenStackoski&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenStackoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## My Projects
+Take a look on my best personal projects
+### WEB
+- [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
+- [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
+## API
+- [Superhero API](https://github.com/KarenStackoski/SuperHeroApi)
+- [CNPJ API](https://github.com/KarenStackoski/UsingApiCnpj)
+## QA
+- [MARK85](https://github.com/KarenStackoski/CypressApi-Mark85)
+- [Starbugs](https://github.com/KarenStackoski/BDDtesting)

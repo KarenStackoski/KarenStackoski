@@ -23,13 +23,13 @@
 </div>
 
 ## My Projects
-Take a look on my best personal projects
+👀 Take a look on my best personal projects
 ### WEB
-- [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
-- [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
+- 🍷 [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
+- 🏎️ [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
 ## API
-- [Superhero API](https://github.com/KarenStackoski/SuperHeroApi)
-- [CNPJ API](https://github.com/KarenStackoski/UsingApiCnpj)
+- 🦸 [Superhero API](https://github.com/KarenStackoski/SuperHeroApi)
+- 👩‍💼 [CNPJ API](https://github.com/KarenStackoski/UsingApiCnpj)
 ## QA
-- [MARK85](https://github.com/KarenStackoski/CypressApi-Mark85)
-- [Starbugs](https://github.com/KarenStackoski/BDDtesting)
+- 🤖 [MARK85](https://github.com/KarenStackoski/CypressApi-Mark85)
+- ☕ [Starbugs](https://github.com/KarenStackoski/BDDtesting)

@@ -6,8 +6,10 @@
 - 💬 Ask me about Progress 4gl, SQL, C#, C++, Clean Architecture.
 - 📫 How to reach me: stackoskikaren@gmail.com or [Karen Stackoski](https://www.linkedin.com/in/karen-stackoski-a91634258/) on LinkedIn.
 ## About
+I'm a Computer Science student at the moment and I also have a Technical knowledge about Informatics. I really like to work with technologies and enjoy studying and improving my skills. I have a high knowledge in English, because I made a course and finished my studies in 2022. I'm also starting to learn Polish, to improve my learning skills and keep working my brain. My goal in life is to keep studying and improving my skills and grow in my professional career as Quality Analist.
 
 ## Profissional Experience
+
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/karen-stackoski-a91634258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:stackoskikaren@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/karen_stackoski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

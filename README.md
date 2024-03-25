@@ -1,15 +1,11 @@
 # Hello world 👋 I'm Karen Stackoski.
 
-- 🎓 I'm currently graduating Computing Science at UNESC.
-- 🔭 I’m currently working at UNESC Labs (DEPS Tecnologia).
-- 🌱 I’m currently learning JavaScript, Cucumber and Cypress.
-- 💬 Ask me about Progress 4gl, SQL, C#, C++, Clean Architecture.
-- 📫 How to reach me: stackoskikaren@gmail.com or [Karen Stackoski](https://www.linkedin.com/in/karen-stackoski-a91634258/) on LinkedIn.
 ## About
 I'm a Computer Science student at the moment and I also have a Technical knowledge about Informatics. I really like to work with technologies and enjoy studying and improving my skills. I have a high knowledge in English, because I made a course and finished my studies in 2022. I'm also starting to learn Polish, to improve my learning skills and keep working my brain. My goal in life is to keep studying and improving my skills and grow in my professional career as Quality Analist.
 
 ## Profissional Experience
-
+I started in my career in TI world when I choose do to a technical course about Informatics in 2020. Then I had my first job, in 2022, as programmer internship at Agrosys, when I spent 1 year. 1 month later, I started my college in Computer Science at UNESC, where I still keep studying. I just have started in college, and I already had the opportunity to enter in another internship at UNESC, when I learned a lot about programming and testing. Nowadays, in 2024, I’m working at DEPS as QA.
+My goal in my professional career is to keep improving my test and QA skills and make a personal project about programming, because I still like to build programs and projects. I want to be a reference in QA and programming.
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/karen-stackoski-a91634258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:stackoskikaren@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/karen_stackoski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

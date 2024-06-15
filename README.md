@@ -34,3 +34,5 @@ My goal in my professional career is to keep improving my test and QA skills and
 #### QA
 - 🤖 [MARK85](https://github.com/KarenStackoski/CypressApi-Mark85)
 - ☕ [Starbugs](https://github.com/KarenStackoski/BDDtesting)
+#### POO
+- ⚡[PokemonApp](https://github.com/KarenStackoski/PokemonApp)

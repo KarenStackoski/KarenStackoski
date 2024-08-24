@@ -29,7 +29,7 @@ My goal in my professional career is to keep improving my test and QA skills and
 - 🍷 [Vinhos Mariot](https://github.com/KarenStackoski/VinhosMariot)
 - 🏎️ [The Mustang Complete Guide](https://github.com/KarenStackoski/theCompleteMustangGuide)
 #### API
-- 🚗 [Fipe Price](https://karenstackoski.github.io/FipePrice/index/index.html)]
+- 🚗 [Fipe Price](https://karenstackoski.github.io/FipePrice/index/index.html)
 - 🍀 [Mega Sena](https://karenstackoski.github.io/MegaSena/index/index.html)
 - 🦸 [Superhero API](https://github.com/KarenStackoski/SuperHeroApi)
 - 👩‍💼 [CNPJ API](https://github.com/KarenStackoski/UsingApiCnpj)
